@@ -29,3 +29,5 @@ python manage.py runserver
 ```
 python manage.py createsuperuser
 ```
+- 사용자 페이지 : http://127.0.0.1
+- 관리자 페이지 : http://127.0.0.1/admin
